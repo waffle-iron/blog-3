@@ -25,12 +25,12 @@
     ]
   },
   "site": {
-    "title": "",
-    "description": "",
+    "title": "RVHSRobotics BLOG",
+    "description": "The RVHSRobotics Blog",
     "logo": "",
     "cover": "",
     "delay": "",
-    "postsPerPage": "",
+    "postsPerPage": "5",
     "googleAnalytics": "",
     "disqus": ""
   },
