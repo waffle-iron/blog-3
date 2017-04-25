@@ -25,8 +25,8 @@
     ]
   },
   "site": {
-    "title": "RVHSRobotics",
-    "description": "RVHSRobotics",
+    "title": "TechnoTrumpet | Blog",
+    "description": "The official blog of TechnoTrumpet!",
     "logo": "",
     "cover": "",
     "delay": "",
@@ -36,7 +36,7 @@
   },
   "socialnetwork": {
     "email": "",
-    "github": "",
+    "github": "TechnoTrumpet",
     "twitter": "",
     "facebook": "",
     "googleplus": "",
@@ -44,6 +44,6 @@
     "pinterest": "",
     "flickr": "",
     "linkedin": "",
-    "stackoverflow": ""
+    "stackoverflow": "technotrumpet"
   }
 }
