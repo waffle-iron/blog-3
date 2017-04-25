@@ -10,8 +10,8 @@
   },
   "urls": {
     "site": "https://technotrumpet.github.io/blog",
-    "hubpress": "https://rvhsrobotics.github.io/blog",
-    "theme": "//technotrumpet.github.io/blog/themes/casper",
+    "hubpress": "https://technotrumpet.github.io/blog",
+    "theme": "//technotrumpet.github.io/blog/themes/ghostium",
     "images": "https://technotrumpet.github.io/blog/images"
   },
   "initialisationConfigComponent": {
