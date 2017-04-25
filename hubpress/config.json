@@ -2,15 +2,14 @@
   "meta": {
     "username": "technotrumpet",
     "repositoryName": "blog",
-    "branch": "gh-pages",
-    "cname": ""
+    "branch": "gh-pages"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
     "site": "https://technotrumpet.github.io/blog",
-    "hubpress": "https://technotrumpet.github.io/blog",
+    "hubpress": "https://rvhsrobotics.github.io/blog",
     "theme": "//technotrumpet.github.io/blog/themes/casper",
     "images": "https://technotrumpet.github.io/blog/images"
   },
@@ -23,27 +22,5 @@
       null,
       null
     ]
-  },
-  "site": {
-    "title": "TechnoTrumpet | Blog",
-    "description": "The open source blog of TechnoTrumpet",
-    "logo": "",
-    "cover": "",
-    "delay": "",
-    "postsPerPage": "5",
-    "googleAnalytics": "",
-    "disqus": ""
-  },
-  "socialnetwork": {
-    "email": "redbankvalleyrobotics@gmail.com",
-    "github": "RVHSRobotics",
-    "twitter": "RVHSRobotics",
-    "facebook": "RVHSRobotics",
-    "googleplus": "",
-    "instagram": "RVHSRobotics",
-    "pinterest": "",
-    "flickr": "",
-    "linkedin": "",
-    "stackoverflow": ""
   }
 }
