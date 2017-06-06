@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/TechnoTrumpet/blog.svg?label=ready&title=Ready)](http://waffle.io/TechnoTrumpet/blog) 
+{<img alt='Stories in Ready' src='https://badge.waffle.io/TechnoTrumpet/blog.svg?label=ready&title=Ready' />}[https://waffle.io/TechnoTrumpet/blog] 
 
 = HubPress
 :toc: macro
