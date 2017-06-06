@@ -1,3 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/TechnoTrumpet/blog.svg?label=ready&title=Ready)](http://waffle.io/TechnoTrumpet/blog) 
+
 = HubPress
 :toc: macro
 :toclevels: 4
